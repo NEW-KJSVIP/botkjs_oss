@@ -1,0 +1,26 @@
+# BPJS OSS AUTOMATION - KPJ LIST
+# Add your KPJ numbers below (one per line)
+# Must be 11 digits exactly
+# Remove # to activate a line
+
+12345678901
+98765432109
+11223344556
+23456789012
+34567890123
+45678901234
+56789012345
+67890123456
+78901234567
+89012345678
+90123456789
+01234567890
+
+# Example format:
+# 12345678901
+# 98765432109
+# 
+# Invalid formats (won't work):
+# 123-456-789 (with dashes)
+# 123456789 (less than 11 digits)
+# ABC12345678 (with letters)

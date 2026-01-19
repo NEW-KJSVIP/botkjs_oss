@@ -1,0 +1,27 @@
+{
+  "2captcha": {
+    "api_key": "c56fb68f0eac8c8e8ecd9ff8ad6deb58",
+    "balance_url": "http://2captcha.com/res.php?key=API_KEY&action=getbalance"
+  },
+  "telegram": {
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "chat_id": "YOUR_CHAT_ID_HERE",
+    "enabled": false
+  },
+  "oss": {
+    "login_url": "https://oss.bpjsketenagakerjaan.go.id/oss?token=ZW1haWw9U05MTlVUUkFDRVVUSUNBTEBHTUFJTC5DT00mbmliPTAyMjA0MDAyNjA4NTY=",
+    "input_url": "https://oss.bpjsketenagakerjaan.go.id/oss/input-tk",
+    "timeout": 60000
+  },
+  "lapakasik": {
+    "url": "https://lapakasik.bpjsketenagakerjaan.go.id/?source=e419a6aed6c50fefd9182774c25450b333de8d5e29169de6018bd1abb1c8f89b",
+    "auto_submit": true
+  },
+  "settings": {
+    "headless": false,
+    "delay_between_kpj": 3,
+    "max_retries": 3,
+    "save_debug_pages": true,
+    "auto_cleanup": true
+  }
+}
