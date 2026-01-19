@@ -106,7 +106,7 @@ cat > "$PROJECT_DIR/CONFIG.txt" << 'EOF'
    - Try manual test on website
 
 📞 SUPPORT:
-GitHub: https://github.com/YOUR_USERNAME/botkjs_oss
+GitHub: https://github.com/NEW-KJSVIP/botkjs_oss
 EOF
 
 # Create symbolic link to shared storage
